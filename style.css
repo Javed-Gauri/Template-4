@@ -64,7 +64,7 @@ html,body{
 #content{
     width: 100%;
     height: calc(100% - 150px);
-    background-color: aquamarine;
+   
 }
 #text-content{
     width: 100%;
